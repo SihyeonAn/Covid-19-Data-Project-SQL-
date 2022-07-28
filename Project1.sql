@@ -1,3 +1,8 @@
+-- Covid-19 Data
+
+Skills used: Joins, CTE, Temp Tables, Aggregate Functions, Windows Functions, Creating Views, Converting Data Types
+
+
 use Portfolio;
 
 select *
